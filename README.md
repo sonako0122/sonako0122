@@ -1,6 +1,6 @@
 ### configs
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
-## Hi
+### <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
+  Hi
   这里是sonako
   一个热爱linux和中度依赖termux的小白
   欢迎您来到我的主页
