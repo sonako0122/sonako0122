@@ -1,6 +1,14 @@
-### Hi there 👋
+### configs
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
+## Hi
+  这里是sonako
+  一个热爱linux和中度依赖termux的小白
+  欢迎您来到我的主页
+  This is sonako,
+  a novice who loves Linux and is moderately dependent on termux. 
+  Welcome to my homepage.
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonako0122&theme=Default" /> </div>
+
 <!--
 **sonako0122/sonako0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
