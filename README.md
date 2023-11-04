@@ -1,6 +1,4 @@
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
-### configs
-
 ### hi
   这里是sonako
   
