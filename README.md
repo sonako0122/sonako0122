@@ -2,15 +2,15 @@
 
   ## hi 这里是sonako
   
-  一个热爱linux和中度依赖termux的小白
+  ## 一个热爱linux和中度依赖termux的小白
   
-  欢迎您来到我的主页
+  ## 欢迎您来到我的主页
   
-  hi This is sonako,
+  ## hi This is sonako,
   
-  a novice who loves Linux and is moderately dependent on termux. 
+  ## a novice who loves Linux and is moderately dependent on termux. 
   
-  Welcome to my homepage.
+  ## Welcome to my homepage.
 
 
 ### 我目前学习很紧张并没用什么活跃性 I'm very nervous about studying right now and I'm not very active.
