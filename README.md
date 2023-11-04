@@ -12,8 +12,8 @@
 ### 我目前学习很紧张并没用什么活跃性 I'm very nervous about studying right now and I'm not very active.
 ### 正在学习
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Kotin Badge]([https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat](https://img.shields.io/badge/Kotin-brightgreen?style=flat&logo=kotlin&labelColor=violet&color=violet)
-![Golang Badge]([https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat](https://img.shields.io/badge/Go-brightgreen?style=flat&logo=goland&color=%23000000)
+![Kotin Badge](https://img.shields.io/badge/Kotin-brightgreen?style=flat&logo=kotlin&labelColor=violet&color=violet)
+![Golang Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ### 常用工具  
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
