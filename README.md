@@ -9,7 +9,7 @@
   Welcome to my homepage.
 
 
-### 我目前学习很紧张并没用什么活跃性 I'm very nervous about studying right now and I'm not very active.
+### 我目前学习很紧张并没有什么活跃性 I'm very nervous about studying right now and I'm not very active.
 
 ### 正在学习
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
