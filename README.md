@@ -1,3 +1,4 @@
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
 ### configs
 
 ### hi
@@ -26,7 +27,6 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonako0122&theme=Default" /> </div>
 
 <!--
