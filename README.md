@@ -2,14 +2,20 @@
 
 ### hi
   这里是sonako
+  
   一个热爱linux和中度依赖termux的小白
+  
   欢迎您来到我的主页
+  
   This is sonako,
+  
   a novice who loves Linux and is moderately dependent on termux. 
+  
   Welcome to my homepage.
 
 
 ### 我目前学习很紧张并没用什么活跃性 I'm very nervous about studying right now and I'm not very active.
+
 ### 正在学习
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Kotin Badge](https://img.shields.io/badge/Kotin-brightgreen?style=flat&logo=kotlin&labelColor=violet&color=violet)
