@@ -1,5 +1,6 @@
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
-### hi
+  hi
+  
   这里是sonako
   
   一个热爱linux和中度依赖termux的小白
