@@ -7,6 +7,7 @@
   
   欢迎您来到我的主页
   
+  hi
   This is sonako,
   
   a novice who loves Linux and is moderately dependent on termux. 
