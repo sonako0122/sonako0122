@@ -16,8 +16,8 @@
 ![Kotin Badge](https://img.shields.io/badge/Kotin-brightgreen?style=flat&logo=kotlin&labelColor=violet&color=violet)
 ### 常用工具  
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=gitforwindows&logoColor=#80B3FF&style=flat)
+![Static Badge](https://img.shields.io/badge/Vim-Text-%23019733?logo=vim&logoColor=#019733)
 ![Static Badge](https://img.shields.io/badge/Sublime-Text-%23FF9800?logo=sublimetext&logoColor=#FF9800)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
