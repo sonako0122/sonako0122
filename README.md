@@ -1,5 +1,4 @@
 ![view](https://count.getloli.com/@sonako?name=sonako&theme=gelbooru&padding=7&offset=6&align=top&scale=1&pixelated=1&darkmode=auto)
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
 
   ## hi 这里是sonako
   > 一个热爱linux和中度依赖terminal的小白
@@ -11,6 +10,7 @@
 
 
 ### 我目前学习很紧张并没有什么活跃性 I'm very nervous about studying right now and I'm not very active.
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
 
 ### 正在学习
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
