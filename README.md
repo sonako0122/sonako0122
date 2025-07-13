@@ -1,3 +1,4 @@
+![view](https://count.getloli.com/@sonako?name=sonako&theme=gelbooru&padding=7&offset=6&align=top&scale=1&pixelated=1&darkmode=auto)
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sonako0122&theme=dracula" /> </div>
 
   ## hi 这里是sonako
