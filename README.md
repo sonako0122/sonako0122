@@ -18,7 +18,7 @@
 
 | 领域 | 技术方向 |
 | :--- | :--- |
-| **Android Dev** | Kotlin, Java, Android SDK |
+| **Android Dev** | Kotlin, Java |
 | **Kernel & Low-Level** | Linux / Android Kernel Scheduler, 内核模块 |
 | **System & Infra** | NixOS Flakes, Dotfiles, Git |
 
