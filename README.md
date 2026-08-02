@@ -26,8 +26,6 @@
 > Shell: Fish + Starship
 > Terminal: Kitty / Alacritty / WezTerm
 
-- ```text
-
 ---
 
 ###  Focus Areas
@@ -64,7 +62,6 @@
 
 ---
 
-```html
 <div align="center">
   <img src="https://raw.githubusercontent.com/Yosaki-sonako/Yosaki-sonako/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
