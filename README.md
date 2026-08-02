@@ -8,8 +8,8 @@
 > **hi This is sonako,**  
 > a novice who loves Linux and is moderately dependent on terminal. Welcome to my homepage.
 
-- **主要方向 / Focus:** Android 应用开发 & Android Kernel (内核) 开发与移植
-- **主力系统 / OS:** NixOS (打造可复用的极客开发环境) & Windows (双系统/跨平台)
+- **主要方向 / Focus:** Android Kernel 开发与移植
+- **主力系统 / OS:** NixOS & Windows
 - **编辑器偏好 / Editor:** Neovim / VS Code 
 
 ---
