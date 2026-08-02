@@ -14,6 +14,22 @@
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5277C3&height=200&section=header&text=Yosaki%20Sonako&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=NixOS%20%7C%20Neovim%20%7C%20Android%20Kernel&descSize=18" width="100%" />
+</div>
+
+> **SYSTEM INFO**
+> OS: NixOS ❄️ (x86_64 / AArch64)
+> Kernel: Linux 7.x (Custom Android/Mainline) 
+> Editor: Neovim  / VS Code
+> Focus: Kernel Development
+> Shell: Fish + Starship
+> Terminal: Kitty / Alacritty / WezTerm
+
+- ```text
+
+---
+
 ###  Focus Areas
 
 | 领域 | 技术方向 |
@@ -47,6 +63,12 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
+
+```html
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yosaki-sonako/Yosaki-sonako/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 <div align="center">
 
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Yosaki-sonako&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sonako's GitHub Stats" />
