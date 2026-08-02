@@ -26,7 +26,7 @@
  Focus: Kernel Development
  Shell: Fish + Starship
  Terminal: Kitty / Alacritty / WezTerm
-
+```
 ---
 
 ###  Focus Areas
