@@ -63,7 +63,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yosaki-sonako/Yosaki-sonako/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contrib" />
 </div>
 
 <div align="center">
