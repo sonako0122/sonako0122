@@ -19,12 +19,13 @@
 </div>
 
 > **SYSTEM INFO**
-> OS: NixOS ❄️ (x86_64 / AArch64)
-> Kernel: Linux 7.x (Custom Android/Mainline) 
-> Editor: Neovim  / VS Code
-> Focus: Kernel Development
-> Shell: Fish + Starship
-> Terminal: Kitty / Alacritty / WezTerm
+```text
+ OS: NixOS ❄️ (x86_64 / AArch64)
+ Kernel: Linux 7.x (Custom Android/Mainline) 
+ Editor: Neovim  / VS Code
+ Focus: Kernel Development
+ Shell: Fish + Starship
+ Terminal: Kitty / Alacritty / WezTerm
 
 ---
 
@@ -32,7 +33,6 @@
 
 | 领域 | 技术方向 |
 | :--- | :--- |
-| **Android Dev** | Kotlin, Java |
 | **Kernel & Low-Level** | Linux / Android Kernel Scheduler, 内核模块 |
 | **System & Infra** | NixOS Flakes, Dotfiles, Git |
 
