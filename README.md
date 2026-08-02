@@ -47,9 +47,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yosaki-sonako&theme=Default" /> </div>
-
 <div align="center">
 
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=Yosaki-sonako&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sonako's GitHub Stats" />
@@ -57,6 +54,8 @@
   <img height="165" src="https://streak-stats.demolab.com?user=Yosaki-sonako&theme=tokyonight&hide_border=true" alt="sonako's GitHub Streak" />
 
 </div>
+
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yosaki-sonako&theme=Default" /> </div>
 
 ---
 
