@@ -29,18 +29,9 @@
 ```
 ---
 
-###  Focus Areas
+### Tech Stack & Tools
 
-| 领域 | 技术方向 |
-| :--- | :--- |
-| **Kernel & Low-Level** | Linux / Android Kernel Scheduler, 内核模块 |
-| **System & Infra** | NixOS Flakes, Dotfiles, Git |
-
----
-
-### 技术栈与工具箱 / Tech Stack & Tools
-
-#### 操作系统 & 环境
+#### System & Env
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -54,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 
-#### 编程语言
+#### Code
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
