@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5277C3&height=200&section=header&text=Yosaki%20Sonako&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=NixOS%20%7C%20Neovim%20%7C%20Android%20Kernel&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5277C3&height=240&section=header&text=Yosaki%20Sonako&fontSize=40&fontAlignY=35&desc=NixOS%20%7C%20Neovim%20%7C%20Android%20Kernel&descSize=15&descAlignY=68&fontFamily=Fira%20Code&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
 > **SYSTEM INFO**
@@ -37,7 +37,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 
-#### 编辑器 & 工具
+#### Edites & Tools
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
