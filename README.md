@@ -48,11 +48,13 @@
 
 ---
 
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yosaki-sonako&theme=Default" /> </div>
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yosaki-sonako&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sonako's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yosaki-sonako&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Yosaki-sonako&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sonako's GitHub Stats" />
+  
+  <img height="165" src="https://streak-stats.demolab.com?user=Yosaki-sonako&theme=tokyonight&hide_border=true" alt="sonako's GitHub Streak" />
 
 </div>
 
